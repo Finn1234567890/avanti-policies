@@ -15,7 +15,7 @@ export default function Navigation() {
     <nav className="w-full py-4 px-6 border-b bg-white dark:bg-black fixed top-0 z-50">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <Link href="/" className="text-xl font-semibold">
-          Avanti App
+          Avanti App 
         </Link>
 
         {/* Desktop Navigation */}
