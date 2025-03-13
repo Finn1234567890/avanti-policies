@@ -51,7 +51,7 @@ export default function Navigation() {
 
       {/* Mobile Menu */}
       <div
-        className={`fixed top-[57px] right-0 h-full w-full text-center bg-white transform transition-transform duration-300 ease-in-out ${
+        className={`fixed top-[57px] right-0 h-full  w-full text-center dark:bg-black bg-white transform transition-transform duration-300 ease-in-out ${
           isMenuOpen ? 'translate-x-0' : 'translate-x-full'
         } md:hidden `}
       >
