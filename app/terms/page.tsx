@@ -25,7 +25,10 @@ export default function Terms() {
           </li>
         </ul>
 
-        <h3 className="text-lg font-semibold mt-6 mb-3">2.2 Unzulässige Nutzung</h3>
+        <h3 className="text-lg font-semibold mt-6 mb-3">2.2 Zustimmung zu den Nutzungsbedingungen</h3>
+        <p>Durch die Nutzung der Avanti-App stimmen Sie diesen Nutzungsbedingungen zu. Sie erklären sich damit einverstanden, dass es keine Toleranz für anstößige Inhalte oder missbräuchliches Verhalten gibt.</p>
+
+        <h3 className="text-lg font-semibold mt-6 mb-3">2.3 Unzulässige Nutzung</h3>
         <p>Sie dürfen nicht:</p>
         <ul className="list-disc pl-5 mb-4">
           <li>Falsche Identitäten verwenden</li>
@@ -57,6 +60,7 @@ export default function Terms() {
           <li>Keine belästigenden oder diskriminierenden Inhalte zu teilen</li>
           <li>Keine illegalen Aktivitäten zu fördern</li>
           <li>Die Privatsphäre anderer Nutzer zu respektieren</li>
+          <li>Es gibt keine Toleranz für anstößige Inhalte oder missbräuchliches Verhalten</li>
         </ul>
 
         <h2 className="text-xl font-semibold mt-8 mb-4">5. Sicherheit</h2>
