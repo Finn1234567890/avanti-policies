@@ -13,6 +13,15 @@ export default function Support() {
 
         <h3 className="text-lg font-semibold mt-6 mb-3">2. Was tun, wenn ich mein Passwort vergessen habe?</h3>
         <p>Kontaktieren Sie unseren Support, falls Sie Ihr Passwort vergessen haben oder Ihr Konto löschen möchten.</p>
+        
+        <h3 className="text-lg font-semibold mt-6 mb-3" id="melden">3. Wie kann ich ein problematisches Profil melden?</h3>
+        <p>Um ein Profil zu melden (z.B. bei Fake-Profilen oder beleidigendem Verhalten):</p>
+        <ol className="list-decimal pl-5 mb-4">
+          <li>Öffnen Sie das betreffende Profil</li>
+          <li>Klicken Sie auf das Flaggen-Symbol oben links im Profil</li>
+          <li>Wählen klicken Sie auf "melden"</li>
+        </ol>
+        <p>Nach der Meldung wird das Profil für Sie automatisch blockiert. Unser Team prüft die Meldung und entscheidet über weitere Maßnahmen.</p>
 
         <h2 className="text-xl font-semibold mt-8 mb-4">Kontaktieren Sie uns</h2>
         <p>Wenn Sie weitere Unterstützung benötigen, können Sie uns jederzeit kontaktieren:</p>
